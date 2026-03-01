@@ -1,0 +1,17 @@
+{
+  "name": "Air Quality Monitor",
+  "short_name": "AQI Monitor",
+  "description": "Live air quality monitoring dashboard and sensor alerts",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "/bi--wind.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
